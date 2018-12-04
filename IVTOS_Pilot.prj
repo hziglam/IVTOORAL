@@ -1,0 +1,7 @@
+<Project id="10b41e2d-f3c6-629e-bf16-9257e81b14c7" name="IVTOS_Pilot" location="C:\Users\HZiglam\OneDrive\HMC folder\IVTOS_Pilot" description="IV to oral switch pilot audit" schemaVersion="102" epiVersion="" createDate="05/07/2015 11:13:58" useMetadataDbForCollectedData="" useBackgroundOnAllPages="False">
+  <CollectedData>
+    <Database connectionString="zHDkaR2yI5Pbh2/LYHfZ7ljYKFwMFLb6TrxCvYEORi6YrxL5fNN9mSjb1UG7SqC6CWolCvyiSPBFmo1IurS2QeeuII61zTjHZurkkfhZqidgImQpnmmhCB6k7gpJce5odWaFUxqr5kik1bSHJ0hry9QfnzZQ4p5IEmpliliEMrI=" dataDriver="Epi.Data.Office.AccessDBFactory, Epi.Data.Office" />
+  </CollectedData>
+  <Metadata source="2" />
+  <EnterMakeviewInterpreter source="Epi.Core.EnterInterpreter" />
+</Project>
